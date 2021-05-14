@@ -30,5 +30,10 @@ p {
 }
 
 .copyright {
+    color: white;
     text-align: right;
+}
+
+.homelink {
+    display: inline;
 }
