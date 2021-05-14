@@ -31,10 +31,10 @@ p {
 
 .copyright {
     color: white;
-    text-align: right;
 }
 
-.homelink {
-    display: inline;
-    text-align: left;
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
 }
